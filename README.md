@@ -1,2 +1,2 @@
-# PCB-Material-Modeler
-This spreadsheet calculates the PCB transmission line insertion loss versus frequency and temperature curves from the datasheet values of the dielectric constant and loss tangent, in addition to copper foil roughness parameters.
+# Serdes Equalizer
+Given a specified channel insertion loss, this spreadsheet calculates a precise first guess for the optimal filter coefficients for SerDes's continuous time linear equalizer (CTLE) and feedforward equalizer (FFE).
