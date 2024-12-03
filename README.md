@@ -1,8 +1,10 @@
 # Serdes Equalizer
-Given a specified channel insertion loss, this spreadsheet calculates a precise first guess for the optimal filter coefficients for SerDes's continuous time linear equalizer (CTLE) and feedforward equalizer (FFE).
+
+Given a specified channel insertion loss, this spreadsheet calculates a precise first guess for the optimal filter coefficients for SerDes's continuous time linear equalizer (CTLE) and feedforward equalizer (FFE). The SI designer or the lab engineer can start preset sweep around the values obtained from this calculator.
 
 
 **User Guide**
+
 1- Input the S21 parameter of the channel vs Frequency in columns: AS, AU, and AV			
 
 ![image](https://github.com/user-attachments/assets/2b3c4176-50f7-4619-b259-69c06553b9c6)
