@@ -25,5 +25,5 @@ Given a specified channel insertion loss, this spreadsheet calculates a precise 
     
 ![image](https://github.com/user-attachments/assets/4995d3a8-215e-4d2c-b8bd-437c137c8764)
 
-
+5- Adjust the CTLE, FFE, and VGA coefficients until the output pulse is well-equalized.
 
